@@ -1,1 +1,1 @@
-# This is a multi-page tourist site, in it you will be able to follow the links, see the route, choose the amount.
+# Это туристический многостраничный сайт, в нем вы сможите переходить по ссылкам, посмотреть маршрут, выбрать сумму.
